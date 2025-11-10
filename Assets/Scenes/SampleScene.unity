@@ -440,6 +440,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1874865439}
   - component: {fileID: 1874865438}
+  - component: {fileID: 1874865440}
   m_Layer: 0
   m_Name: AsSpeed_0
   m_TagString: Untagged
@@ -520,6 +521,18 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1874865440
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1874865437}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3b7c19bbc94af4a5791308dfc1859e86, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Contoh
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
