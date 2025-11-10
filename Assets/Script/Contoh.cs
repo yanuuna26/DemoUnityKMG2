@@ -19,6 +19,8 @@ public class Contoh : MonoBehaviour
         number2 = temp;
         Debug.Log("Number 1 : " + number1);
         Debug.Log("Number 2 : " + number2);
+
+        Debug.Log(((1287 * 14 + 589) > (63 + 55 * 5)) || (21 < 10));
     }
 
     // Update is called once per frame
